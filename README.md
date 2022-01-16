@@ -44,7 +44,7 @@ fade.Randomness(text)
 ![image](https://user-images.githubusercontent.com/91424393/149655452-048ff5bb-c453-405c-ae76-0cdb79b59bdd.png)
 (this one can also show up bad sometimes but I don't know why you would even use it)
 
-### Installation
+## Installation
 
 First
 
